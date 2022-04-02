@@ -1,0 +1,9 @@
+name: hyper
+channels:
+- pkgs/main
+
+dependencies:
+- python=3.9
+- jupyterlab=3.3
+- numpy=1.21
+- pytorch=1.10
